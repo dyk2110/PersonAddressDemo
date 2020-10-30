@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: YasodakrishnaDantina
+Build-Jdk: 14.0.2
+Implementation-Title: SpringBootRestAPIOneToMany
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.grokonez.springrestapi.onetomany
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootRestAPIOneToMany
+Created-By: Maven Integration for Eclipse
+
