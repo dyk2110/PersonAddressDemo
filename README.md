@@ -1,6 +1,8 @@
 # PersonAddressDemo 
 <br>
+
 ## Prerequisites <br><br>
+
 - JDK 1.7 or later <br><br>
 - Maven 3 or later <br><br>
 - STS  <br><br>
